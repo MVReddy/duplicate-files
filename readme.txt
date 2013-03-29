@@ -5,3 +5,5 @@ An example of running this script to just list all the duplicate files would be:
     
 An example of running this script to list and delete all the duplicate files would be:
         python DuplicateFiles.py /Users/Daniel/Documents -remove
+
+Can Improve this script by adding some other choices
