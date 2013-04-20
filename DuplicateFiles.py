@@ -27,6 +27,9 @@ def find_duplicates( rootdir ):
     return duplicates
 
 if __name__ == '__main__':
+    """
+    This is to call main method...
+    """
     from argparse import ArgumentParser
     from DuplicatesDeletion import duplicates_gui
     
